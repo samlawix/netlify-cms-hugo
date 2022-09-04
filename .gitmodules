@@ -1,4 +1,4 @@
-[submodule "hugo-cohub"]
-	path = hugo-cohub
+[submodule "site/themes/coHub"]
+	path = site/themes/coHub
 	url = https://github.com/StaticMania/hugo-cohub.git
 	branch = master
